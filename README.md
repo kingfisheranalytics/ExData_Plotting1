@@ -23,10 +23,10 @@ The code for this assignment consists of 4 files, each of which (when run) gener
 
  1. Download the <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> dataset, and extract it to the working folder containing the R files (below).
  2. Execute the plot1.R file to generate a histogram of Global Active Power over time.
-	 <img src="https://github.com/kingfisheranalytics/ExData_Plotting1/plot1.png">
+	 <img src="https://github.com/kingfisheranalytics/ExData_Plotting1/blob/master/plot1.png">
  3. Execute the plot2.R file to generate a Global Active Power over time line chart.
-	 <img src="https://github.com/kingfisheranalytics/ExData_Plotting1/plot2.png">
+	 <img src="https://github.com/kingfisheranalytics/ExData_Plotting1/blob/master/plot2.png">
  4. Execute the plot3.R file to generate a layered line chart showing the three Sub Meter activity variables over time.
-	 <img src="https://github.com/kingfisheranalytics/ExData_Plotting1/plot3.png">
+	 <img src="https://github.com/kingfisheranalytics/ExData_Plotting1/blob/master/plot3.png">
  5. Execute the plot4.R file to generate a 2x2 grid of plots including plot1, plot2, plot3, and Global Reactive Power over time.
-	 <img src="https://github.com/kingfisheranalytics/ExData_Plotting1/plot4.png">
+	 <img src="https://github.com/kingfisheranalytics/ExData_Plotting1/blob/master/plot4.png">
